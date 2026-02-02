@@ -1,4 +1,4 @@
-# Dead Reckoning Node
+# Dead Reckoning Node OUTDATED, use Frame-conversion-in-acceleration instead!
 ### Written by: Malcolm Benedict
 ### Last updated: 1/31/2026 
 ### Contact: mmbenedi@mtu.edu
