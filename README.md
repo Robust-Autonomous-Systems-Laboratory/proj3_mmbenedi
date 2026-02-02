@@ -1,9 +1,10 @@
-# Dead Reckoning Node OUTDATED, use Frame-conversion-in-acceleration instead!
+# Dead Reckoning Node 
 ### Written by: Malcolm Benedict
 ### Last updated: 1/31/2026 
 ### Contact: mmbenedi@mtu.edu
 This project implements a simple ROS2 node which calculates robot position by dead reckoning using velocity commands and IMU data. By using these two sources of data, the node demonstrates the limitations of dead reckoning based estimation, the role of noise and the difference between command data and recorded measurements.
 ## Instructions
+**Note: the main branch is OUTDATED, please use Frame-conversion-in-acceleration instead!**
 1) First, generate a proper ROS2 workspace directory containing a /src subdirectory
 2) In the root of the workspace run the following command: 
     ~~~ 
